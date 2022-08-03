@@ -6,7 +6,7 @@
 
 ![mobile-responsive](https://img.shields.io/badge/Mobile%20Responsive-No-red)
 [![Deployed](https://img.shields.io/badge/Deployed-Yes-green)](#)
-![Time](https://img.shields.io/badge/Time%20Taken-6-7hrs-green)
+![Time](https://img.shields.io/badge/Time%20Taken-6hrs-green)
 
 ## Tech Stack:
 
