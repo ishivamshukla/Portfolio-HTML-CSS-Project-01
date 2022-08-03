@@ -1,14 +1,25 @@
-# Assignment 1
+# Portfolio Web Page
 
-![ineuro, lco](https://img.shields.io/badge/iNeuron-LCO-green)
-![hitesh choudhary](https://img.shields.io/badge/Hitesh--Choudhary-Full--stack--JS--bootcamp-red)
+> ## [Shivam Shukla](https://ishivamshukla.in)
 
-![HTML & CSS](https://img.shields.io/badge/HTML-CSS-orange)
-![Live class](https://img.shields.io/badge/LIVE--CLASS-PROJECT--1-lightgrey)
+<br/>
 
-## Shivam Shukla
+![mobile-responsive](https://img.shields.io/badge/Mobile%20Responsive-No-red)
+[![Deployed](https://img.shields.io/badge/Deployed-Yes-green)](#)
+![Time](https://img.shields.io/badge/Time%20Taken-6-7hrs-green)
 
-## Project 1 [Live Link](#)
+## Tech Stack:
+
+![HTML](https://img.shields.io/badge/html-3670A0?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-%234ea94b.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+### Checkout the live website [here](#).
+
+---
+
+## My Learnings
 
 -   Skills Gained in this project
     -   Learnd to use css position [Relative & Absolute] property.
@@ -17,10 +28,7 @@
 
 ---
 
-## Time taken to finish this project
-
--  6-8 hour to complete it.
-
-#### Screenshot
+## How the website looks like
 
 ![Desktop](1.png)
+
